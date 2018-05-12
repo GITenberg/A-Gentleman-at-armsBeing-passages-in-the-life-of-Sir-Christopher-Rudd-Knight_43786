@@ -25,6 +25,8 @@ creator:
     - http://en.wikipedia.org/wiki/Herbert_Strang
     - http://www.gutenberg.org/ebooks/author/39124
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/43786#A-Gentleman-at-armsBeing-passages-in-the-life-of-Sir-Christopher-Rudd-Knight
 gutenberg_issued: '2013-09-21'
 gutenberg_type: Text
 identifiers:
